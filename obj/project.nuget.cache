@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qep3JhRFlCrm26dwO4h73yxmnR+p1CVEdaR9ctOUu5I9d/mUzl0nFYgof142r2t8RbG4jHES8ggCrL6vRwG/tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xbox0\\source\\repos\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xbox0\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
